@@ -252,8 +252,8 @@ nav li {
 
 @media screen and (min-width: 992px) {
   .navbar {
-    padding-top: 1.056%; /* 1:2.5 height:width which is the same ratio used in buttons */
-    padding-bottom: 1.056%;
+    padding-top: 0.056%; /* 1:2.5 height:width which is the same ratio used in buttons */
+    padding-bottom: 0.056%;
   }
   .navbar-collapse {
     justify-content: end;
