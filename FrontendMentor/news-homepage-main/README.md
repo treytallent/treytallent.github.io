@@ -6,6 +6,10 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
+###Live Website
+
+http://treytallent.com/FrontendMentor/news-homepage-main/index.html#
+
 ### Built with
 
 - Semantic HTML5 markup
