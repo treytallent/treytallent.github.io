@@ -55,6 +55,7 @@ body {
   margin: 0;
   line-height: 1.6;
   font-size: 0.9375rem;
+  background: var(--clr-neutral-offwhite);
 }
 /* ~~~~~~~~~~ */
 /* Typography */
@@ -106,6 +107,8 @@ p {
 }
 
 .article-title {
+  color: var(--clr-neutral-verydarkblue);
+  font-size: 1rem;
   margin-bottom: 0.5em;
 }
 
@@ -221,9 +224,6 @@ p {
   }
 }
 
-.nav-current {
-  color: var(--clr-neutral-darkblue);
-}
 /* Hero */
 
 .hero {
@@ -232,6 +232,7 @@ p {
 
 .hero-title {
   max-width: 320px;
+  font-weight: var(--fw-black);
 }
 
 .hero-img-mobile {
